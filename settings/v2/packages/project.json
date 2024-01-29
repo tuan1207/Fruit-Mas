@@ -1,0 +1,37 @@
+{
+  "__version__": "1.0.5",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "FRUIT"
+      },
+      {
+        "index": 2,
+        "name": "TOUCH"
+      },
+      {
+        "index": 3,
+        "name": "BOMB"
+      },
+      {
+        "index": 4,
+        "name": "HEART"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 27,
+      "1": 5,
+      "2": 26,
+      "3": 5,
+      "4": 5
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+}
